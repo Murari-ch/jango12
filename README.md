@@ -1,2 +1,2 @@
-# jango12
-this is a project of jango
+# Jango12
+This is a project of poll application using python and django.
